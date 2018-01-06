@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vpd>
+  <record name="VER0">
+    <rdesc>The Vendor repair data record</rdesc>
+    <keyword name="RT">
+      <kwdesc>The Record Type keyword</kwdesc>
+      <kwlen>4</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>VER0</kwdata>
+    </keyword>
+    <keyword name="#I">
+      <kwdesc>Repair Data</kwdesc>
+      <kwlen>198</kwlen>
+      <kwformat>hex</kwformat>
+      <kwdata>4552020620</kwdata>
+    </keyword>
+  </record>
+</vpd>

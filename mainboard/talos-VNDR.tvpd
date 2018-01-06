@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vpd>
+  <record name="VNDR">
+    <rdesc>The VNDR record</rdesc>
+    <keyword name="RT">
+      <kwdesc>The Record Type keyword</kwdesc>
+      <kwlen>4</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>VNDR</kwdata>
+    </keyword>
+    <keyword name="VD">
+      <kwdesc>Record Version</kwdesc>
+      <kwlen>2</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>01</kwdata>
+    </keyword>
+    <keyword name="IN">
+      <kwdesc>Vendor Specific Data</kwdesc>
+      <kwlen>128</kwlen>
+      <kwformat>hex</kwformat>
+      <kwdata>00</kwdata>
+    </keyword>
+  </record>
+</vpd>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vpd>
+  <record name="OSYS">
+    <rdesc>The OpenPower System Record</rdesc>
+    <keyword name="RT">
+      <kwdesc>The Record Type keyword</kwdesc>
+      <kwlen>4</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>OSYS</kwdata>
+    </keyword>
+    <keyword name="VD">
+      <kwdesc>Record Version</kwdesc>
+      <kwlen>2</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>01</kwdata>
+    </keyword>
+    <keyword name="DR">
+      <kwdesc>FRU Description</kwdesc>
+      <kwlen>16</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>MAINBOARD</kwdata>
+    </keyword>
+    <keyword name="MM">
+      <kwdesc>Machine Type Model</kwdesc>
+      <kwlen>16</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>T2P9D01 REV 1.00</kwdata>
+    </keyword>
+    <keyword name="SS">
+      <kwdesc>System Serial Number</kwdesc>
+      <kwlen>16</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>SERIAL0123456789</kwdata>
+    </keyword>
+    <keyword name="ET">
+      <kwdesc>Enclosure Type</kwdesc>
+      <kwlen>1</kwlen>
+      <kwformat>hex</kwformat>
+      <kwdata>02</kwdata>
+    </keyword>
+  </record>
+</vpd>

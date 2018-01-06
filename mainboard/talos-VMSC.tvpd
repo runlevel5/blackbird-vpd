@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vpd>
+  <record name="VMSC">
+    <rdesc>The VMSC record</rdesc>
+    <keyword name="RT">
+      <kwdesc>The Record Type keyword</kwdesc>
+      <kwlen>4</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>VMSC</kwdata>
+    </keyword>
+    <keyword name="IN">
+      <kwdesc>Free Space for Software Data</kwdesc>
+      <kwlen>205</kwlen>
+      <kwformat>hex</kwformat>
+      <kwdata>00</kwdata>
+    </keyword>
+  </record>
+</vpd>

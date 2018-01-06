@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vpd>
+  <record name="OPFR">
+    <rdesc>The OPFR record</rdesc>
+    <keyword name="RT">
+      <kwdesc>The Record Type keyword</kwdesc>
+      <kwlen>4</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>OPFR</kwdata>
+    </keyword>
+    <keyword name="VD">
+      <kwdesc>Record Version</kwdesc>
+      <kwlen>2</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>02</kwdata>
+    </keyword>
+    <keyword name="VN">
+      <kwdesc>Vendor Name</kwdesc>
+      <kwlen>16</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>RAPTOR COMP SYS </kwdata>
+    </keyword>
+    <keyword name="DR">
+      <kwdesc>FRU Description</kwdesc>
+      <kwlen>16</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>SYSTEM MAINBOARD</kwdata>
+    </keyword>
+    <keyword name="VP">
+      <kwdesc>Card Part Number</kwdesc>
+      <kwlen>16</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>T2P9D01 REV 1.00</kwdata>
+    </keyword>
+    <keyword name="VS">
+      <kwdesc>Card Serial Number</kwdesc>
+      <kwlen>16</kwlen>
+      <kwformat>ascii</kwformat>
+      <kwdata>SERIAL0123456789</kwdata>
+    </keyword>
+    <keyword name="MB">
+      <kwdesc>Manufacturing Build Date</kwdesc>
+      <kwlen>8</kwlen>
+      <kwformat>hex</kwformat>
+      <kwdata>AB</kwdata>
+    </keyword>
+  </record>
+</vpd>
