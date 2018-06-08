@@ -60,7 +60,7 @@
       <kwdesc>Hardware EC</kwdesc>
       <kwlen>4</kwlen>
       <kwformat>ascii</kwformat>
-      <kwdata>0001</kwdata>
+      <kwdata>0002</kwdata>
     </keyword>
     <keyword name="CT">
       <kwdesc>Card Type</kwdesc>
@@ -72,7 +72,7 @@
       <kwdesc>Hardware Level</kwdesc>
       <kwlen>2</kwlen>
       <kwformat>hex</kwformat>
-      <kwdata>00</kwdata>
+      <kwdata>01</kwdata>
     </keyword>
     <keyword name="B3">
       <kwdesc>Hardware Characteristics</kwdesc>
@@ -90,7 +90,7 @@
       <kwdesc>Hardware Level</kwdesc>
       <kwlen>12</kwlen>
       <kwformat>hex</kwformat>
-      <kwdata>00</kwdata>
+      <kwdata>01</kwdata>
     </keyword>
   </record>
 </vpd>
