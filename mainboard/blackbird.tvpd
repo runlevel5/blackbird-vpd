@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vpd>
+  <name>blackbird</name>
+  <size>32 kB</size>
+  <VD>3130</VD>
+  <record name="VINI">
+    <rtvpdfile>blackbird-VINI.tvpd</rtvpdfile>
+  </record>
+  <record name="OSYS">
+    <rtvpdfile>blackbird-OSYS.tvpd</rtvpdfile>
+  </record>
+  <record name="OPFR">
+    <rtvpdfile>blackbird-OPFR.tvpd</rtvpdfile>
+  </record>
+  <record name="VNDR">
+    <rtvpdfile>blackbird-VNDR.tvpd</rtvpdfile>
+  </record>
+  <record name="MEMD">
+    <rtvpdfile>blackbird-MEMD.tvpd</rtvpdfile>
+  </record>
+  <record name="VER0">
+    <rtvpdfile>blackbird-VER0.tvpd</rtvpdfile>
+  </record>
+  <record name="MER0">
+    <rtvpdfile>blackbird-MER0.tvpd</rtvpdfile>
+  </record>
+  <record name="VMSC">
+    <rtvpdfile>blackbird-VMSC.tvpd</rtvpdfile>
+  </record>
+  <record name="VRTN">
+    <rtvpdfile>blackbird-VRTN.tvpd</rtvpdfile>
+  </record>
+</vpd>

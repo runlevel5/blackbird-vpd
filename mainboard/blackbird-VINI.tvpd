@@ -30,13 +30,13 @@
       <kwdesc>FRU Number</kwdesc>
       <kwlen>7</kwlen>
       <kwformat>ascii</kwformat>
-      <kwdata>T2P9S01</kwdata>
+      <kwdata>C1P9S01</kwdata>
     </keyword>
     <keyword name="PN">
       <kwdesc>Card Part Number</kwdesc>
       <kwlen>7</kwlen>
       <kwformat>ascii</kwformat>
-      <kwdata>T2P9S01</kwdata>
+      <kwdata>C1P9S01</kwdata>
     </keyword>
     <keyword name="SN">
       <kwdesc>Card Serial Number</kwdesc>
