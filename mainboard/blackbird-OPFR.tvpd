@@ -30,7 +30,7 @@
       <kwdesc>Card Part Number</kwdesc>
       <kwlen>16</kwlen>
       <kwformat>ascii</kwformat>
-      <kwdata>C1P9S01 REV 1.01</kwdata>
+      <kwdata>C1P9S01 REV 1.00</kwdata>
     </keyword>
     <keyword name="VS">
       <kwdesc>Card Serial Number</kwdesc>
